@@ -11,7 +11,7 @@ export const Button = ({ label, onClick }: PropsType) => {
         onClick();
     }
     return (
-        <button onClick={handleClick}>{label}</button>
+        <button style={{ backgroundColor: "red" }} onClick={handleClick}>{label}</button>
     )
 }
 
