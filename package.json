@@ -1,7 +1,6 @@
 {
   "name": "commons",
   "version": "1.0.0",
-  "main": "./dist/remoteEntry.js",
   "scripts": {
     "build": "webpack --config ./webpack/webpack.dev.js --mode production",
     "build:dev": "webpack --mode development",
