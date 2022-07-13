@@ -1,2 +1,1 @@
-// silent
-// import("./App");
+// silence is golden
